@@ -1,9 +1,24 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IEEE TIA":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28
+  color: "#005bac"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AEPS":
+  url: https://www.aeps-info.com/
+  color: "#005bac"
 
-"Vision":
-  color: "#009f36"
+"CSEE JPES":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7802751
+  color: "#005bac"
+
+"DLCM":
+  color: "#005bac"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#005bac"
+
+"CIEEC":
+  color: "#005bac"
+
+"EI2":
+  color: "#005bac"
