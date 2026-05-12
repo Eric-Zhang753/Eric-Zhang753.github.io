@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student in Electrical Engineering, Harbin Institute of Technology
+subtitle: Ph.D. student in Electrical Engineering, Harbin Institute of Technology (HIT)
 
 profile:
   align: right
@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -24,14 +24,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am fascinated by how modern power systems can become more intelligent, flexible, and responsive to human needs.
+Hey, thanks for stopping by! 👋
 
-As a researcher in electrical engineering, I study the interaction between **physical power networks**, **flexibility resources**, and **AI-driven decision-making**. My work mainly focuses on:
+I am a Ph.D. student in Electrical Engineering at **Harbin Institute of Technology**, advised by [@Zhongkai Yi](https://scholar.google.cz/citations?user=NsTuK-0AAAAJ&hl=zh-CN).
 
-- understanding user intentions behind electric vehicle charging requests;
-- coordinating flexible resources in virtual power plants;
-- enabling lightweight large language models to support power system modeling and operation at the edge-side.
+My research focuses on the intersection of **power systems** and **machine learning**, particularly on making modern grids more intelligent and flexible through **AI-driven decision-making**.
 
-I am a **Ph.D. student in Electrical Engineering** at **Harbin Institute of Technology**. Before that, I received my B.S. degree in Electrical Engineering and Automation from **Nanjing University of Science and Technology** in 2023.
+As a researcher, I am broadly interested in:
 
-Beyond specific algorithms, I am interested in a broader question: how can AI systems become reliable collaborators for power system operators, rather than black-box tools that merely produce answers?
+- understanding **user intentions** behind electric vehicle charging requests;
+- coordinating flexible resources in **virtual power plants**;
+- enabling **lightweight large language models (LLM)** for edge-side power system operation.
+
+Previously, I received my B.S. degree in Electrical Engineering and Automation from **Nanjing University of Science and Technology** in 2023.
