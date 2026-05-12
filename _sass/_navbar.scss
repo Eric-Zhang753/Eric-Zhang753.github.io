@@ -83,7 +83,13 @@
     font-size: 1.7rem;
 
     a {
+      align-items: center;
       color: var(--global-text-color-light);
+      display: inline-flex;
+      height: 1.8rem;
+      justify-content: center;
+      line-height: 1;
+      width: 1.8rem;
 
       img {
         width: 1.7rem;
@@ -104,6 +110,12 @@
           width: 1.7rem;
           height: 1.7rem;
         }
+      }
+
+      i {
+        display: inline-flex;
+        font-size: 1.45rem;
+        line-height: 1;
       }
 
       i::before {

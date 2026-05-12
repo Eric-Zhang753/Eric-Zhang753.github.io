@@ -8,13 +8,22 @@ layout: default
   </style>
 {% endif %}
 
+{% assign header_search_enabled = false %}
+{% if page.header_bib_search or page.header_honors_search %}
+  {% assign header_search_enabled = true %}
+{% endif %}
+
 <div class="post">
-  <header class="post-header{% if page.header_bib_search %} post-header-with-search{% endif %}">
+  <header class="post-header{% if header_search_enabled %} post-header-with-search{% endif %}">
     <div class="post-title-row">
       <h1 class="post-title">{{ page.title }}</h1>
-      {% if page.header_bib_search %}
+      {% if header_search_enabled %}
         <div class="post-title-search">
-          {% include bib_search.liquid %}
+          {% if page.header_bib_search %}
+            {% include bib_search.liquid %}
+          {% elsif page.header_honors_search %}
+            {% include honors_search.liquid %}
+          {% endif %}
         </div>
       {% endif %}
     </div>
