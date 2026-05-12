@@ -33,7 +33,7 @@ Each honor should include four fields:
 - Category: Competition Award / Mathematical Modeling Competition
 - Date: 2021
 - Honor: 2021 Interdisciplinary Contest in Modeling, Honorable Mention
-- Awarding Organization: Consortium for Mathematics and Its Applications (COMAP)
+- Awarding Organization: COMAP
 
 ### Silver Award, 8th China International College Students' “Internet+” Innovation and Entrepreneurship Competition
 
