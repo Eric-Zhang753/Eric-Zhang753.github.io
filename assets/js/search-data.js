@@ -405,13 +405,6 @@ ninja.data = [{
           window.open("mailto:%7A%62%68%68%69%74@%31%36%33.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/Eric-Zhang753", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -424,6 +417,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=8ZAtv0MAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Eric-Zhang753", "_blank");
         },
       },{
       id: 'light-theme',
