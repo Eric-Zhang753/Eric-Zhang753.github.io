@@ -83,10 +83,14 @@
     font-size: 1.7rem;
 
     a {
+      color: var(--global-text-color-light);
+
       img {
         width: 1.7rem;
         height: 1.7rem;
         margin-bottom: 0.5rem;
+        filter: grayscale(1);
+        opacity: 0.62;
         // margin: 0.5rem;
       }
 
@@ -94,6 +98,7 @@
         width: 1.7rem;
         height: 1.7rem;
         margin-bottom: 0.5rem;
+        opacity: 0.62;
 
         image {
           width: 1.7rem;
@@ -102,13 +107,13 @@
       }
 
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-text-color-light);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-text-color);
         }
       }
     }

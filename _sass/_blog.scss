@@ -39,6 +39,45 @@
   }
 }
 
+.post-header-with-search {
+  .post-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .post-title {
+    margin-bottom: 0;
+  }
+
+  .post-title-search {
+    flex: 0 1 350px;
+    margin-left: auto;
+  }
+
+  .bibsearch-form-input {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .post-header-with-search {
+    .post-title-row {
+      align-items: stretch;
+      flex-direction: column;
+    }
+
+    .post-title-search {
+      flex: none;
+      margin-left: 0;
+      width: 100%;
+    }
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;

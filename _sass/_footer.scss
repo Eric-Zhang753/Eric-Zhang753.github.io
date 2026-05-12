@@ -2,19 +2,22 @@
  * Footer styles
  ******************************************************************************/
 
+@use "variables" as v;
+
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  background-color: rgba(255, 255, 255, 0.82);
+  border-top: 1px solid var(--global-divider-color);
+  font-size: 0.68rem;
 
   .container {
-    color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    color: v.$black-color;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
   }
 
   a {
-    color: var(--global-footer-link-color);
+    color: v.$black-color;
 
     &:hover {
       color: var(--global-theme-color);
