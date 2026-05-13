@@ -329,6 +329,8 @@ filtered_bibtex_keywords:
     publisher_url,
     selected,
     slides,
+    special_report_label,
+    special_report_url,
     supp,
     video,
     website,
