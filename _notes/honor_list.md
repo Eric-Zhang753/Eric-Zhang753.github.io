@@ -51,6 +51,13 @@ Each honor should include four fields:
 
 ## Invention and Innovation Awards
 
+### Gold Medal with Congratulations of the Jury, International Exhibition of Inventions Geneva / 日内瓦国际发明展评审团特别嘉许金奖
+
+- Category: Invention Award / International Invention Exhibition
+- Date: 2026-04-13
+- Honor: Gold Medal with Congratulations of the Jury, International Exhibition of Inventions Geneva, project “Efficient Control and Operation System for Virtual Power Plants Integrating Massive Flexible Distributed Resources” / 日内瓦国际发明展，项目《集成海量柔性分布式资源的虚拟电厂高效控制与运行系统》，评审团特别嘉许金奖
+- Awarding Organization: International Jury, International Exhibition of Inventions Geneva / 日内瓦国际发明展国际评审团
+
 ### Gold Award, 28th National Exhibition of Inventions / 第二十八届全国发明展览会金奖
 
 - Category: Invention Award / National Invention Exhibition
