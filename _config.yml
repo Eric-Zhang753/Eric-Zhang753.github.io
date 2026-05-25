@@ -325,6 +325,8 @@ filtered_bibtex_keywords:
     pmid,
     poster,
     preview,
+    publisher_page_label,
+    publisher_page_url,
     publisher_label,
     publisher_url,
     selected,

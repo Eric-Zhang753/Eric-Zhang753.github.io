@@ -232,6 +232,11 @@
           {%- if entry.special_report_label %}{{ entry.special_report_label }}{% else %}Report{% endif -%}
         </a>
       {% endif %}
+      {% if entry.publisher_page_url %}
+        <a href="{{ entry.publisher_page_url }}" class="btn btn-sm z-depth-0" role="button">
+          {%- if entry.publisher_page_label %}{{ entry.publisher_page_label }}{% else %}Publisher{% endif -%}
+        </a>
+      {% endif %}
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
       {% endif %}
