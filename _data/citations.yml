@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   8ZAtv0MAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 4
     title: 'Automatic programming for the optimal power flow in distribution networks: An edge-side adaptive computing approach based on large language models'
     year: '2026'
   8ZAtv0MAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: Combined Peak Load Scheduling for Power Dispatching with Price Demand Response
     year: '2024'
   8ZAtv0MAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 7
     title: A Hybrid Stochastic-Robust Planning Approach for the Flexible Devices in an Islanded Integrated Energy System Considering Multiple Uncertainties and Demand Response
     year: '2025'
   8ZAtv0MAAAAJ:qjMakFHDy7sC:
