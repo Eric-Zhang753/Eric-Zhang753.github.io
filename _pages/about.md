@@ -22,9 +22,9 @@ internships:
   enabled: true
   items:
     - period: Aug. 2024 - Nov. 2024
-      content: Algorithm Intern, Decision Intelligence Lab, <a href="https://damo.alibaba.com/?language=zh">Alibaba DAMO Academy</a>.
+      content: Research Intern on LLM, Decision Intelligence Lab, <a href="https://damo.alibaba.com/?language=zh">DAMO Academy, Alibaba</a>.
     - period: Mar. 2022 - Jun. 2022
-      content: Operations and Maintenance Intern, Data Information Management Department, <a href="https://www.siemens.com/zh-cn/ecosystem/siemens-energy/">Siemens Energy Co., Ltd</a>.
+      content: Operations and Maintenance Intern, Data Information Management Department, <a href="https://www.siemens.com/zh-cn/ecosystem/siemens-energy/">Siemens Energy</a>.
 
 education:
   enabled: true
