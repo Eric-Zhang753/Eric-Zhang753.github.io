@@ -18,6 +18,22 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+internships:
+  enabled: true
+  items:
+    - period: Aug. 2024 - Nov. 2024
+      content: Algorithm Intern, Decision Intelligence Lab, <a href="https://damo.alibaba.com/?language=zh">Alibaba DAMO Academy</a>.
+    - period: Mar. 2022 - Jun. 2022
+      content: Operations and Maintenance Intern, Data Information Management Department, <a href="https://www.siemens.com/zh-cn/ecosystem/siemens-energy/">Siemens Energy Co., Ltd</a>.
+
+education:
+  enabled: true
+  items:
+    - period: Sep. 2023 - Present
+      content: Direct Ph.D. Program, School of Electrical Engineering and Automation, <a href="https://www.hit.edu.cn/main.htm">Harbin Institute of Technology</a>.
+    - period: Sep. 2019 - Jun. 2023
+      content: B.S., School of Automation, <a href="https://www.njust.edu.cn/">Nanjing University of Science and Technology</a>.
+
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
@@ -35,5 +51,3 @@ As a researcher, I am broadly interested in:
 - understanding **user intentions** behind electric vehicle charging requests;
 - coordinating flexible resources in **virtual power plants**;
 - enabling **lightweight large language models (LLM)** for edge-side power system operation.
-
-Previously, I received my B.S. degree in Electrical Engineering and Automation from **Nanjing University of Science and Technology** in 2023.
