@@ -30,7 +30,7 @@ education:
   enabled: true
   items:
     - period: Sep. 2023 - Present
-      content: Direct Ph.D. Program, School of Electrical Engineering and Automation, <a href="https://www.hit.edu.cn/main.htm">Harbin Institute of Technology</a>.
+      content: Integrated Master's–Ph.D. Program, School of Electrical Engineering and Automation, <a href="https://www.hit.edu.cn/main.htm">Harbin Institute of Technology</a>.
     - period: Sep. 2019 - Jun. 2023
       content: B.S., School of Automation, <a href="https://www.njust.edu.cn/">Nanjing University of Science and Technology</a>.
 

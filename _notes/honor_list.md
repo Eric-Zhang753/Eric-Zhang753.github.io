@@ -21,18 +21,18 @@ Each honor should include four fields:
 
 ## Competition Awards
 
-### First Prize, 2021 China Engineering Robot Competition and International Open
+### First Prize, 2021 China Engineering Robot Competition and International Open Competition
 
 - Category: Competition Award / Robotics Competition
 - Date: 2021-11-26
-- Honor: First Prize, Quadruped Bionic Competition of the Bionic Climbing Event, 2021 China Engineering Robot Competition and International Open / 2021 中国工程机器人大赛暨国际公开赛，仿生爬坡项目四足仿生赛，一等奖
-- Awarding Organization: Chinese Association for Artificial Intelligence; Organizing Committee of the China Engineering Robot Competition and International Open / 中国人工智能学会；中国工程机器人大赛暨国际公开赛组委会
+- Honor: First Prize, Quadruped Bionic Competition of the Bionic Climbing Event, 2021 China Engineering Robot Competition and International Open Competition / 2021 中国工程机器人大赛暨国际公开赛，仿生爬坡项目四足仿生赛，一等奖
+- Awarding Organization: Chinese Association for Artificial Intelligence; Organizing Committee of the China Engineering Robot Competition and International Open Competition / 中国人工智能学会；中国工程机器人大赛暨国际公开赛组委会
 
-### 2021 Interdisciplinary Contest in Modeling Honorable Mention
+### Honorable Mention, 2021 Interdisciplinary Contest in Modeling
 
 - Category: Competition Award / Mathematical Modeling Competition
 - Date: 2021
-- Honor: 2021 Interdisciplinary Contest in Modeling, Honorable Mention
+- Honor: Honorable Mention, 2021 Interdisciplinary Contest in Modeling
 - Awarding Organization: COMAP
 
 ### Silver Award, 8th China International College Students' “Internet+” Innovation and Entrepreneurship Competition
