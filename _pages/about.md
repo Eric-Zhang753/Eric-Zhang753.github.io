@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Electrical Engineering, Harbin Institute of Technolog
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bohan-zhang-profile.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
